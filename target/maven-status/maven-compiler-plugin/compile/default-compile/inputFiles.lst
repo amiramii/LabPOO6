@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\classes\AdjustableAppliance.java
 C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\classes\SmartAppliance.java
 C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\classes\SmartLight.java
@@ -6,3 +7,12 @@ C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\classes\SmartThermost
 C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\interfaces\Connectable.java
 C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\interfaces\Schedulable.java
 C:\Users\HP\OneDrive\Bureau\java\Lab6PartTwo\src\main\java\MainPackage\Main.java
+=======
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\abstractclasses\Employee.java
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\classes\Developer.java
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\classes\Person.java
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\classes\SalesPerson.java
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\classes\Tester.java
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\interfaces\Manager.java
+C:\Users\HP\OneDrive\Bureau\java\Lab6\src\main\java\MainPackage\Main.java
+>>>>>>> 2744148d1c022e76c7556a6486d0275269424c6d

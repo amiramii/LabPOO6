@@ -2,12 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
+<<<<<<< HEAD
     <artifactId>Lab6PartTwo</artifactId>
+=======
+    <artifactId>Lab6</artifactId>
+>>>>>>> 2744148d1c022e76c7556a6486d0275269424c6d
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
+<<<<<<< HEAD
         <exec.mainClass>com.mycompany.lab6parttwo.Lab6PartTwo</exec.mainClass>
     </properties>
+=======
+        <exec.mainClass>com.mycompany.lab6.Lab6</exec.mainClass>
+    </properties>
+    <name>ClassAbstractInterfaceTP06</name>
+>>>>>>> 2744148d1c022e76c7556a6486d0275269424c6d
 </project>

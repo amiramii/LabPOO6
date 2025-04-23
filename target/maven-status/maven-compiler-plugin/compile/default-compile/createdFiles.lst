@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 classes\SmartAppliance.class
 interfaces\Connectable.class
 MainPackage\Main.class
@@ -6,3 +7,12 @@ classes\SmartSpeaker.class
 interfaces\Schedulable.class
 classes\SmartLight.class
 classes\AdjustableAppliance.class
+=======
+classes\SalesPerson.class
+classes\Developer.class
+MainPackage\Main.class
+classes\Person.class
+abstractclasses\Employee.class
+interfaces\Manager.class
+classes\Tester.class
+>>>>>>> 2744148d1c022e76c7556a6486d0275269424c6d
