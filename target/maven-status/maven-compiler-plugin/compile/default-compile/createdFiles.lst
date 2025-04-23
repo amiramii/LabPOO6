@@ -1,0 +1,8 @@
+classes\SmartAppliance.class
+interfaces\Connectable.class
+MainPackage\Main.class
+classes\SmartThermostat.class
+classes\SmartSpeaker.class
+interfaces\Schedulable.class
+classes\SmartLight.class
+classes\AdjustableAppliance.class
